@@ -1,2 +1,2 @@
 # git-practice
-Practice Depository
+Practice repository
